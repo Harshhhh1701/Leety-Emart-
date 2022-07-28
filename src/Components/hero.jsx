@@ -9,9 +9,9 @@ const Hero = () => {
         <div className="text-3xl tracking-wider font-sans font-light text-white animate-pulse z-10"> Energy Drink</div>
       </div>
       <div className='absolute bg-yellow-400 w-72 right-20 top-80 h-96 blur-3xl bg-opacity-70 rounded-2xl'></div>
-      <div className='absolute bg-yellow-500 w-72 left-60 top-72 h-72 rounded-full blur-xl bg-opacity-70 '></div>
-      <div className='absolute bg-red-500 w-72 left-1/3 top-72 h-72 rounded-full blur-xl bg-opacity-70 '></div>
-      <div className='absolute bg-green-500 w-72 left-96 top-2/3 h-72 rounded-full blur-xl bg-opacity-70 '></div>
+      <div className='absolute bg-yellow-500 w-72 left-60 top-72 h-72 rounded-full blur-3xl bg-opacity-70  mix-blend-normal'></div>
+      <div className='absolute bg-red-500 w-72 left-1/3 top-72 h-72 rounded-full blur-3xl bg-opacity-70  mix-blend-normal'></div>
+      <div className='absolute bg-green-500 w-72 left-96 top-2/3 h-72 rounded-full blur-3xl bg-opacity-70  mix-blend-normal'></div>
       <div className='w=1/4 z-10'>
         <img src={bgImg} alt=""  />
       </div>
