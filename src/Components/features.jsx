@@ -16,7 +16,7 @@ const Features = () => {
             <div className='flex  border-4 h-1/3 mx-10  pt-10 shadow-slate-400 shadow-xl rounded-md'>
                 <div className="flex ">
                     <div className="flex m-10 flex-col">
-                        <div className='text-2xl font-serif text-yellow-300 font-semibold animate-bounce'>Leety</div>
+                        <div className='text-2xl font-serif text-yellow-300 font-semibold animate-bounce'>SALES</div>
                         <div className='font-thin text-white '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quae suscipit aperiam deleniti minus incidunt non nulla, pariatur ut consequatur necessitatibus aut veritatis libero. Repudiandae quibusdam vitae ut iusto ducimus!</div>
                     </div>
                 </div>

@@ -10,27 +10,27 @@ const Navbar = () => {
       </div>
       <div className='flex w-1/2'>
         <div className="flex  w-1/3 space-x-28 pt-10 pl-28 pb-5">
-          <div className='text-xl  text-white hover:text-2xl'>Home</div>
+          <div className='text-xl  text-white hover:text-2xl hover:cursor-pointer'>Home</div>
         </div>
         <div className="flex  w-1/3 space-x-28 pt-10 pl-28 pb-5">
-          <div className='text-xl text-white hover:text-2xl'>Shop</div>
+          <div className='text-xl text-white hover:text-2xl hover:cursor-pointer'>Shop</div>
         </div>
         <div className="flex  w-1/3 space-x-28 pt-10 pl-28 pb-5">
-          <div className='text-xl text-white hover:text-2xl'>Contact</div>
+          <div className='text-xl text-white hover:text-2xl hover:cursor-pointer'>Contact</div>
         </div>
       </div>
 
       <div className="flex w-1/2">
         <div className='flex w-1/2 pt-10 ml-28 space-x-16 '>
-          <BiCart className='text-3xl  text-white hover:text-4xl' />
+          <BiCart className='text-3xl  text-white hover:text-4xl hover:cursor-pointer' />
 
         </div>
         <div className='flex w-1/2 pt-10 ml-28 space-x-16 '>
-          <div className='text-xl text-white hover:text-2xl'>Orders</div>
+          <div className='text-xl text-white hover:text-2xl hover:cursor-pointer'>Orders</div>
 
         </div>
         <div className='flex w-1/2 pt-10 ml-28 space-x-16 '>
-          <AiOutlineUser className='text-3xl  text-white hover:text-4xl' />
+          <AiOutlineUser className='text-3xl  text-white hover:text-4xl hover:cursor-pointer' />
 
         </div>
       </div>
